@@ -1,0 +1,16 @@
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\bin\Debug\RSS Activity Project.exe.config
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\bin\Debug\RSS Activity Project.exe
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\bin\Debug\RSS Activity Project.pdb
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.csprojAssemblyReference.cache
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\MainWindow.g.cs
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\App.g.cs
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project_MarkupCompile.cache
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project_MarkupCompile.lref
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\MainWindow.baml
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.g.resources
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS_Activity_Project.Properties.Resources.resources
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.csproj.GenerateResource.cache
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.csproj.CoreCompileInputs.cache
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.exe
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.pdb
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS_Dictionary1.baml
