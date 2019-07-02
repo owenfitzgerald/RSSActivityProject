@@ -1,0 +1,18 @@
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\RSS Activity Tests.deps.json
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\RSS Activity Tests.runtimeconfig.json
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\RSS Activity Tests.runtimeconfig.dev.json
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\RSS Activity Tests.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\RSS Activity Tests.pdb
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\RSS Activity Project.exe
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\RSS Activity Project.pdb
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\bin\Debug\netcoreapp2.1\RSS Activity Project.exe.config
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\obj\Debug\netcoreapp2.1\RSS Activity Tests.csprojAssemblyReference.cache
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\obj\Debug\netcoreapp2.1\RSS Activity Tests.csproj.CoreCompileInputs.cache
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\obj\Debug\netcoreapp2.1\RSS Activity Tests.AssemblyInfoInputs.cache
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\obj\Debug\netcoreapp2.1\RSS Activity Tests.AssemblyInfo.cs
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\obj\Debug\netcoreapp2.1\RSS Activity Tests.csproj.CopyComplete
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\obj\Debug\netcoreapp2.1\RSS Activity Tests.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Tests\obj\Debug\netcoreapp2.1\RSS Activity Tests.pdb

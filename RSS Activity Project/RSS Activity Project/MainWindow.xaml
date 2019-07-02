@@ -7,11 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox HorizontalAlignment="Center" Height="23" Margin="126,143,441,0" Text="..\\RSS Activity Project\RSS_Dictionary1.xaml" VerticalAlignment="Top" Width="225" TextWrapping="NoWrap" BorderThickness="2"/>
+        <TextBox x:Name="URLBox" HorizontalAlignment="Center" Height="23" Margin="126,143,441,0" Text="..\..\\RSS_Dictionary1.txt" VerticalAlignment="Top" Width="225" TextWrapping="NoWrap" BorderThickness="2"/>
         <Label Content="Dictionary Location
                " HorizontalAlignment="Left" Margin="10,139,0,0" VerticalAlignment="Top" Width="116"/>
         <TextBlock HorizontalAlignment="Left" Margin="126,171,0,0" TextWrapping="Wrap" Text="Text Box input should be the file path to a dictionary of RSS feeds, keyed by Company and valued by URL." VerticalAlignment="Top" Width="224"/>
-        <TextBox HorizontalAlignment="Center" Height="23" Margin="123,241,644,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25" BorderThickness="2"/>
+        <TextBox x:Name="daysBox" HorizontalAlignment="Center" Height="23" Margin="123,241,644,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="25" BorderThickness="2"/>
         <Label Content="Filter By:" HorizontalAlignment="Left" Margin="57,237,0,0" VerticalAlignment="Top"/>
         <Label Content="Days" HorizontalAlignment="Left" Margin="154,238,0,0" VerticalAlignment="Top"/>
         <Button x:Name="goButton" Content="Go" HorizontalAlignment="Left" Margin="215,241,0,0" VerticalAlignment="Top" Width="75" Click="ButtonPress">

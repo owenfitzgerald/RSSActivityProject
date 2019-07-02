@@ -27,15 +27,20 @@ namespace RSS_Activity_Project
 
         private void ButtonPress(object sender, RoutedEventArgs e)
         {
-
+            //Initialize Variables
+            outputBox.Text = "";
             var outputList = new List<string>();
-            outputList.Add("Metabolon");
+            var filePath = URLBox.Text;
+            var dictionary = new RSSDictionary(filePath);
 
-            outputBox.Text = "Reading File...";
-
+            var fileString = dictionary.RetrieveDictionary();
+            
+            outputBox.Text += "Reading File...\n";
+            outputBox.Text += fileString;
 
             var result = String.Join(",", outputList.ToArray());
-            outputBox.Text = result;
+            outputBox.Text += result;
         }
+
     }
 }
