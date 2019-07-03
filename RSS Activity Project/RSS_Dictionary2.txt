@@ -1,0 +1,7 @@
+﻿BBC, http://feeds.bbci.co.uk/news/rss.xml
+BBC, http://feeds.bbci.co.uk/news/world/rss.xml
+Bill Maher, http://billmaher.hbo.libsynpro.com/rss
+Bill Simmons, https://rss.art19.com/the-bill-simmons-podcast
+Diane Rehm, https://dianerehm.org/rss/npr/dr_podcast.xml
+Joe Rogan, http://podcasts.joerogan.net/feed
+NBC, http://podcastfeeds.nbcnews.com/meetthepress
