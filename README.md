@@ -7,3 +7,11 @@ File Does not Exist - Passes
 File is Empty - Passes
 File Read Succeeds - Passes
 Dictionary Creation Succeeds - Passes
+getFeed - Passes
+Overall Success - Passses [NEEDS TO HAVE EXPECTED VALUE UPDATED IF A NEW POST OUTDATES THE CURRENT ONES]
+
+The dependency packages are not included in repo due to file number and the fact that they are all included in .NET framework by default.
+Dependencies are:
+- MSTest.TestAdapter
+- MSTest.TesFramework
+- System.ServiceModel.Primitives
