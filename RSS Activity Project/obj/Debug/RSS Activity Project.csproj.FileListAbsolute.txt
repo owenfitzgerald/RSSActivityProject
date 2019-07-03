@@ -13,3 +13,5 @@ C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\
 C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.csproj.CoreCompileInputs.cache
 C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.exe
 C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.pdb
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Project\obj\Debug\RSS Activity Project.csproj.CopyComplete

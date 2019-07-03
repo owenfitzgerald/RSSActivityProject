@@ -1,0 +1,17 @@
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\obj\Debug\RSS Activity Unit Tests.csprojAssemblyReference.cache
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\obj\Debug\RSS Activity Unit Tests.csproj.CoreCompileInputs.cache
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\RSS Activity Unit Tests.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\RSS Activity Unit Tests.pdb
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\RSS Activity Project.exe
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\RSS Activity Project.pdb
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\RSS Activity Project.exe.config
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\obj\Debug\RSS Activity Unit Tests.csproj.CopyComplete
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\obj\Debug\RSS Activity Unit Tests.dll
+C:\Users\Owen Fitzgerald\source\repos\RSS Activity Project\RSS Activity Unit Tests\obj\Debug\RSS Activity Unit Tests.pdb

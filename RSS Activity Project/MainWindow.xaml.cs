@@ -27,54 +27,24 @@ namespace RSS_Activity_Project
 
         private void ButtonPress(object sender, RoutedEventArgs e)
         {
-            Get_RSS();
-        }
-
-        public void Get_RSS()
-        {
             //Initialize Variables
             outputBox.Text = "";
-            List<string> outputList = new List<string>();
             String filePath = URLBox.Text;
-            DateTime now = DateTime.Now;
-            //declare Dictionary with input filepath
-            RSSDictionary dictionary = new RSSDictionary(filePath);
+            RSSGetter getter = new RSSGetter();
 
             //ensure valid days input
             bool isNumeric = int.TryParse(daysBox.Text, out int daysAgo);
             if (!isNumeric) return;
 
-            //read in file
-            String fileString = dictionary.RetrieveDictionary();
-            //output info
-            outputBox.Text += "Reading File...\n";
-            outputBox.Text += fileString + "\n";
+            //temporarily set text
+            outputBox.Text = "Fetching...";
 
-            //parse dictionary
-            dictionary.setDictionary(fileString);
-            //output info
-            outputBox.Text += "Parsing Dictionary...\n";
-
-            //get feeds from dictionary
-            dictionary.getFeeds();
-            outputBox.Text += "Getting Posts...\n";
-            foreach (var item in dictionary.postDict)
-            {
-                outputBox.Text += item + "\n";
-            }
-
-            //get postBy date
-            DateTime postBy = now.AddDays(-daysAgo);
-            //add feeds without posts to output
-            foreach (var company in dictionary.postDict)
-            {
-                if (company.Value < postBy) outputList.Add(company.Key);
-            }
-
-            var result = $"\nThe following companies have not posted in the past {daysAgo} days: \n" + String.Join(", ", outputList.ToArray());
-            outputBox.Text += result;
+            //Get info from classes
+            string result = getter.Get_RSS(filePath, daysAgo);
+            outputBox.Text = result;
         }
 
         
     }
+
 }
